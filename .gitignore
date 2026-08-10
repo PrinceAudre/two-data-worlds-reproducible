@@ -1,0 +1,43 @@
+# R session / IDE
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj.bak
+.posit/
+
+# Secrets and local credentials
+.env
+.env.*
+!.env.example
+rdhs.json
+.rdhs.json
+
+# Protected or local source data
+data/raw/
+data/private/
+data/cache/
+*.rds
+*.RDS
+*.dta
+*.DTA
+*.sav
+*.SAV
+
+# renv local state
+renv/library/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+renv/staging/
+
+# Rendered / transient output
+output/
+.quarto/
+**/*.quarto_ipynb
+*_files/
+
+# OS
+Thumbs.db
+.DS_Store
