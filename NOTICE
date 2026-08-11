@@ -1,0 +1,25 @@
+Repository licensing and data-use notice
+
+1. Original source code
+
+The original source code under `R/` is licensed under the MIT License contained in `LICENSE`.
+
+2. Derived analytical outputs and figures
+
+Files under `data/derived/` and `figures/` are distributed as reproducibility artifacts. They are not licensed under the MIT License by this repository. No additional reuse licence is granted for these files unless stated in a later release or accompanying publication.
+
+3. DHS data
+
+DHS microdata are not distributed in this repository. Users must obtain any required access independently from The DHS Program and comply with the applicable DHS data-use terms.
+
+4. Routine DHIS2 source extract
+
+The frozen raw routine-data CSV used by the validation workflow is not distributed in this repository. Its checksum is provided solely to identify the validated input. Users supplying their own copy remain responsible for the terms governing that source data.
+
+5. Third-party software
+
+Third-party packages, dependency metadata, bootstrap files, and other third-party components remain subject to their own licences and terms.
+
+6. No transfer of third-party rights
+
+Nothing in the MIT licence for the repository source code grants rights in third-party datasets, trademarks, documentation, software, or other materials for which the repository author does not control the applicable rights.

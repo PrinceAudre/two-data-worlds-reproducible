@@ -78,3 +78,7 @@ section6-rdhs-validation-summary.csv
 This public repository is deliberately separated from the private research workspace. It does not contain DHS microdata, private raw-data files, credentials, audit or pilot materials, manuscript or submission drafts, or machine-specific absolute file paths.
 
 Its purpose is to provide code, environment metadata, validation logic, aggregate outputs, and figure-generation materials sufficient to inspect and reproduce the statistical workflow while respecting source-data access restrictions.
+
+## Licence and reuse
+
+Original source code under `R/` is released under the MIT License. The MIT grant does not extend to `data/derived/`, `figures/`, protected source data, or third-party materials. See `LICENSE` and `NOTICE` for the precise repository licensing and data-use boundary.
