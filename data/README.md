@@ -10,6 +10,8 @@ The RDHS worked examples use the Rwanda 2019-20 Individual Recode dataset corres
 
 The analysis expects a locally prepared `RWIR81DT.rds` file supplied through the `RDHS_IR_RDS` environment variable. The validation script exports aggregate results only.
 
+Official report citation: National Institute of Statistics of Rwanda (NISR) [Rwanda], Ministry of Health (MOH) [Rwanda], and ICF. 2021. Rwanda Demographic and Health Survey 2019-20 Final Report. Kigali, Rwanda, and Rockville, Maryland, USA: NISR and ICF. DHS publication FR370. Official publication page: https://dhsprogram.com/publications/publication-FR370-DHS-Final-Reports.cfm
+
 ## Routine DHIS2 demonstration extract
 
 The routine-data example uses a frozen DHIS2 demonstration-data extract named `dhis2_indicator.csv`. The raw CSV is not redistributed while source-specific redistribution terms remain under review.
