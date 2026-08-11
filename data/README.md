@@ -16,6 +16,8 @@ Official report citation: National Institute of Statistics of Rwanda (NISR) [Rwa
 
 The routine-data example uses a frozen DHIS2 demonstration-data extract named `dhis2_indicator.csv`. The raw CSV is not redistributed while source-specific redistribution terms remain under review.
 
+Validated source provenance: the example uses the "ANC 1 Coverage" indicator (DHIS2 indicator UID Uvn6LCg7dVU) from the Sierra Leone DHIS2 demonstration database. The acquisition record identifies the DHIS2 Analytics API and organisation-unit UID ImspTQPwCqd; the frozen analytical input contains observations for 13 districts across monthly periods. Official DHIS2 demo information: https://dhis2.org/demo/
+
 The validated frozen input has SHA-256:
 
 `34412B3539CCDFAE5E71DC56B007A315282D545722F75369A33ABC45EEC328AC`
