@@ -1,0 +1,7 @@
+"panel","method","term","OR","lower","upper"
+"B","Naive (unweighted)","educ_panelprimary",1.215,1.02925026510127,1.43427215911842
+"B","Naive (unweighted)","educ_panelsecondary",1.51448275862067,1.25080597833505,1.83374405454342
+"B","Naive (unweighted)","educ_panelhigher",3.78666666665711,2.80931240586495,5.10404055256977
+"B","Design-based","educ_panelprimary",1.15891265119522,0.960054482956409,1.39896074331578
+"B","Design-based","educ_panelsecondary",1.44525331146747,1.15313040326824,1.81137981306161
+"B","Design-based","educ_panelhigher",3.7236725826349,2.58263099951079,5.36884189235447

@@ -1,0 +1,9 @@
+FIGURE 1 ALT-TEXT FACTS - NOT SUBMISSION PROSE
+Final alt text must be written/reviewed by the human author.
+
+Panel A: Naive/SRS insurance coverage 83.22% (95% CI 82.61-83.82); design-based 82.65% (81.54-83.70).
+Panel B: odds ratios compare Primary, Secondary and Higher education with No education.
+Naive ORs: Primary 1.22 (1.03-1.43); Secondary 1.51 (1.25-1.83); Higher 3.79 (2.81-5.10).
+Design-based ORs: Primary 1.16 (0.96-1.40); Secondary 1.45 (1.15-1.81); Higher 3.72 (2.58-5.37).
+Primary education: the naive 95% interval excludes 1; the design-based 95% interval crosses 1.
+Figure uses black-only symbols and confidence-interval lines; open circle = naive/unweighted, filled circle = design-based.

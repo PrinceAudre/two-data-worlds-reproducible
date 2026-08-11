@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility materials, please cite this repository."
+title: "Two Data Worlds: Reproducible Statistical Worked Examples"
+type: software
+authors:
+  - family-names: "TUYISHIME"
+    given-names: "AUDRE PRINCE"
+keywords:
+  - reproducibility
+  - complex surveys
+  - DHS
+  - DHIS2
+  - health statistics
+  - R
