@@ -62,16 +62,7 @@ Figure 1 can be rebuilt directly from the aggregate CSV files distributed in `da
 
 ## Frozen aggregate outputs
 
-```text
-figure1-panel-a-generated.csv
-E92055A931161DD6F8C44EFC15551DF40FFCFDE84CEA162EAE4FE59670439019
-
-figure1-panel-b-generated.csv
-AB11394A638089673D4D54D7F2E88C41756B055F72EE23B311B7C1313BFFA02A
-
-section6-rdhs-validation-summary.csv
-5C1A9258DBF442E8223970EAE5D47B03B323750909AF2DA50B84933A4E9F3305
-```
+Canonical SHA-256 checksums for the frozen aggregate CSV outputs are maintained in [`data/README.md`](data/README.md). Those checksums refer to the LF-normalized files stored in this repository under its `.gitattributes` policy.
 
 ## Reproducibility boundary
 

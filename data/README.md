@@ -16,7 +16,7 @@ Official report citation: National Institute of Statistics of Rwanda (NISR) [Rwa
 
 The routine-data example uses a frozen DHIS2 demonstration-data extract named `dhis2_indicator.csv`. The raw CSV is not redistributed while source-specific redistribution terms remain under review.
 
-Validated source provenance: the example uses the "ANC 1 Coverage" indicator (DHIS2 indicator UID Uvn6LCg7dVU) from the Sierra Leone DHIS2 demonstration database. The acquisition record identifies the DHIS2 Analytics API and organisation-unit UID ImspTQPwCqd; the frozen analytical input contains observations for 13 districts across monthly periods. Official DHIS2 demo information: https://dhis2.org/demo/
+Validated source provenance was reconstructed and independently verified against the frozen analytical input. The example uses the "ANC 1 Coverage" indicator (DHIS2 indicator UID Uvn6LCg7dVU) from the Sierra Leone DHIS2 demonstration database. The reconstructed provenance identifies the DHIS2 Analytics API and organisation-unit UID ImspTQPwCqd; the hash-matched frozen analytical input contains observations for 13 districts across monthly periods. The historical extraction timestamp has not been recovered. Official DHIS2 demo information: https://dhis2.org/demo/
 
 The validated frozen input has SHA-256:
 
@@ -28,6 +28,8 @@ Diagnostic values above 100 or below 5 are retained as observations requiring in
 
 ## Frozen aggregate checksums
 
-- `figure1-panel-a-generated.csv`: `E92055A931161DD6F8C44EFC15551DF40FFCFDE84CEA162EAE4FE59670439019`
-- `figure1-panel-b-generated.csv`: `AB11394A638089673D4D54D7F2E88C41756B055F72EE23B311B7C1313BFFA02A`
-- `section6-rdhs-validation-summary.csv`: `5C1A9258DBF442E8223970EAE5D47B03B323750909AF2DA50B84933A4E9F3305`
+These SHA-256 values refer to the LF-normalized CSV files as stored in this public repository under its `.gitattributes` policy. Earlier Windows CRLF copies can have different byte-level hashes despite identical tabular values.
+
+- `figure1-panel-a-generated.csv`: `589B0C3C6C047BD34FB44CE05EFB632F26A99AC441F729DEB6551271F02B74A7`
+- `figure1-panel-b-generated.csv`: `0418895C779EC90DBE0276D678E4A29D9C3AE607315851910F5D11550CE6E97D`
+- `section6-rdhs-validation-summary.csv`: `A0A105933D882FFF9A5AC06D3246FEEC8EE2754335D6D8C6B8EBBF0EFB79C76D`
