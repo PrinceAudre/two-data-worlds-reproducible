@@ -1,0 +1,4 @@
+outcome,primary_n,primary_design_weighted_pct,census_n,census_pct,census_minus_primary_pp
+fully_aligned,47,40.677076,45,50.561798,9.884722
+materially_misaligned,47,39.190622,25,28.089888,-11.100734
+indeterminate_or_partial,47,20.132302,19,21.348315,1.216013
