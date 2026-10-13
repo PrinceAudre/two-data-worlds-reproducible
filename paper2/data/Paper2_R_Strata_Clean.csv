@@ -1,0 +1,15 @@
+﻿stratum,arm,family,country,eligible_N,sample_n,pilot_N,nonpilot_N
+DHIS2|Democratic Republic of the Congo,DHIS2,DHIS2,Democratic Republic of the Congo,11,6,0,11
+DHIS2|Kenya,DHIS2,DHIS2,Kenya,21,11,1,20
+DHIS2|Rwanda,DHIS2,DHIS2,Rwanda,7,4,0,7
+DHIS2|Somalia,DHIS2,DHIS2,Somalia,1,1,0,1
+DHIS2|South Sudan,DHIS2,DHIS2,South Sudan,1,1,0,1
+DHIS2|Tanzania,DHIS2,DHIS2,Tanzania,19,10,3,16
+DHIS2|Uganda,DHIS2,DHIS2,Uganda,29,14,3,26
+DHS|Burundi,DHS/MICS,DHS,Burundi,14,3,0,14
+DHS|Democratic Republic of the Congo,DHS/MICS,DHS,Democratic Republic of the Congo,5,1,0,5
+DHS|Kenya,DHS/MICS,DHS,Kenya,64,14,2,62
+DHS|Rwanda,DHS/MICS,DHS,Rwanda,57,12,3,54
+DHS|Tanzania,DHS/MICS,DHS,Tanzania,149,31,1,148
+DHS|Uganda,DHS/MICS,DHS,Uganda,81,17,1,80
+MICS|Democratic Republic of the Congo,DHS/MICS,MICS,Democratic Republic of the Congo,7,2,1,6
