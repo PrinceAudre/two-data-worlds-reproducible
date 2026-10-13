@@ -11,9 +11,11 @@ This directory contains release-safe derived data and R code for the manuscript 
 - `data/Paper2_DHIS2_Census_Additional42_2026-10-13.csv`: the 42 eligible DHIS2 publications outside the frozen primary n=47 DHIS2 probability sample, used only for the post hoc census robustness analysis.
 - `R/analyze_dhis2_census.R`: census robustness analysis with hard checks for disjointness and an N=89 union.
 - `data/Table_DHIS2_census_*.csv`: derived census result tables.
+- `R/rdhs_empirical_illustration_v1.0.R`: prespecified 2019-20 and 2025 Rwanda DHS empirical illustration comparing full-design, unweighted, and weights-only analyses.
+- `data/RDHS_illustration_*.csv`: non-disclosive aggregate outputs and design checks from the Rwanda illustration.
 
 ## Reproduction boundary
 
 This public surface does not redistribute Scopus exports, copyrighted article full texts, restricted DHS microdata, credentials, or private audit material. Review classifications and derived analytical data are provided so the reported statistical analyses can be inspected without redistributing protected source material.
 
-The Rwanda empirical illustration uses access-controlled DHS microdata. Users must obtain their own authorised DHS access to reproduce microdata-level calculations.
+The Rwanda empirical illustration uses access-controlled DHS microdata. Users must obtain their own authorised DHS access to reproduce microdata-level calculations. The public repository provides the analysis code, structural validation gates, session information, and aggregate outputs; respondent-level DHS microdata are not redistributed.
