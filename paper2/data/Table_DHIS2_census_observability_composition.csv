@@ -1,0 +1,4 @@
+metric,primary_design_weighted_pct,census_n,census_denominator,census_pct,census_minus_primary_pp
+not_fully_aligned,59.322924,44,89,49.438202,-9.884722
+M_share_among_not_fully_aligned,66.063200,25,44,56.818182,-9.245018
+I_share_among_not_fully_aligned,33.936800,19,44,43.181818,9.245018
